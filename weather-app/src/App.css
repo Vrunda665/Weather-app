@@ -1,0 +1,8 @@
+.root {
+  /* width: 100%; */
+  flex-grow: 1;
+}
+
+.App {
+  width: 100%;
+}
